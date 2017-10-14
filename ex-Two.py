@@ -8,10 +8,7 @@ for i in range(0,24,1):
     passingVehicles.append(x)
 
 
-print (passingVehicles[0:6] , "\n")
-print (passingVehicles[6:12] , "\n")
-print (passingVehicles[12:18] , "\n")
-print (passingVehicles[18:24] , "\n")
+
 
 
 MaxpassingVehPerHour = [max(passingVehicles[0:6]),max(passingVehicles[6:12]),max(passingVehicles[12:18]),max(passingVehicles[18:24])]

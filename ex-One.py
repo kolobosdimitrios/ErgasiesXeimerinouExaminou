@@ -26,8 +26,6 @@ while (Farmer):
 
 
 
-print (sheepArray)
-
 totalSheeps = int(input("Grapste posa einai sinolika ta provata: \n"))
 
 Sum = sum(sheepArray[-1])
